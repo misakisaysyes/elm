@@ -1,0 +1,5674 @@
+{
+  "user": {
+    "avatar" : "https://pic1.zhimg.com/80/v2-09976e6bbc36c03ff19805e242bcaf58_720w.jpg",
+    "name" : "amber",
+    "address" : ["上海市嘉定区曹安公路4800号","贵州省贵阳市双峰路55号社区"],
+    "accounts" : {
+      "phone" : "15900892307",
+      "taobao" : "this is taobao account",
+      "zhifubao" : "this is zhifubao account",
+      "weibo" : "this is weibo account",
+      "weixin" : "this is weixin account",
+      "qq" : "this is qq account"
+    },
+    "bonus": [],
+    "allowance": 0,
+    "balance": 0,
+    "elmcoin": 0,
+
+    "historyOrder": [],
+    "shopCollection": []
+  },
+  "shopInfo": {
+    "shopOne": {
+      "name": "shopOne",
+      "src": "https://cube.elemecdn.com/5/CD/D0371265A4BFE8B2545B3EBC1C529jpeg.jpeg?x-oss-process=image/format,webp/resize,w_130,h_130,m_fixed",
+      "rate": "5.0",
+      "sellCount": 100,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 4,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    },
+    "shopTwo": {
+      "name": "shopTwo",
+      "src": "https://cube.elemecdn.com/1/b8/fad6b83bd68daf7f91726dda02a29png.png?x-oss-process=image/format,webp/resize,w_130,h_130,m_fixed",
+      "rate": "5.0",
+      "sellCount": 20,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 3,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    },
+    "shopThree": {
+      "name": "shopThree",
+      "src": "https://cube.elemecdn.com/f/3a/c00ad62d01f535d63b8260ab2b3a3jpeg.jpeg?x-oss-process=image/format,webp/resize,w_130,h_130,m_fixed",
+      "rate": "5.0",
+      "sellCount": 55,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 3.5,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    },
+    "shopFour": {
+      "name": "shopFour",
+      "src": "https://cube.elemecdn.com/d/47/91220d1e3671eceee174b7b19f9fcJPEG.JPEG",
+      "rate": "5.0",
+      "sellCount": 22,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 2.3,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    },
+    "shopFive": {
+      "name": "shopFive",
+      "src": "https://cube.elemecdn.com/7/1d/73727efe0d8913185619a7111d776JPEG.JPEG",
+      "rate": "5.0",
+      "sellCount": 33,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 2.9,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    },
+    "shopSix": {
+      "name": "shopSix",
+      "src": "https://cube.elemecdn.com/F/89/7A2AE1AC641498BFB1D6F2F1D6220jpeg.jpeg?x-oss-process=image/format,webp/resize,w_130,h_130,m_fixed",
+      "rate": "5.0",
+      "sellCount": 56,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 3.3,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    },
+    "shopSeven": {
+      "name": "shopSeven",
+      "src": "https://cube.elemecdn.com/e/06/69e6953c13dfbc86b06f278cb46b0jpeg.jpeg?x-oss-process=image/format,webp/resize,w_130,h_130,m_fixed",
+      "rate": "5.0",
+      "sellCount": 64,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 2.3,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    },
+    "shopEight": {
+      "name": "shopEight",
+      "src": "https://cube.elemecdn.com/f/46/c25f83f0d8307302bc12eac119fc3jpeg.jpeg?x-oss-process=image/format,webp/resize,w_130,h_130,m_fixed",
+      "rate": "5.0",
+      "sellCount": 34,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 3.4,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    },
+    "shopNine": {
+      "name": "shopNine",
+      "src": "https://cube.elemecdn.com/2/6D/3372039C7415A846DDF0BAB8823E3png.png?x-oss-process=image/format,webp/resize,w_130,h_130,m_fixed",
+      "rate": "5.0",
+      "sellCount": 99,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 4.3,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    },
+    "shopTen": {
+      "name": "shopTen",
+      "src": "https://cube.elemecdn.com/2/1B/EB51650CC498D990DD94E1449E137png.png?x-oss-process=image/format,webp/resize,w_130,h_130,m_fixed",
+      "rate": "5.0",
+      "sellCount": 43,
+      "startFee": 10,
+      "sendFee": 1.5,
+      "time": 30,
+      "dist": 3,
+      "stars": 3,
+      "popUp": false,
+      "commentTag": ["“很好，辣度刚好”", "“大写的好吃”"],
+      "vipTag": [
+        {"k": "shopvip", "v": "￥6 无门槛"},
+        {"k": "shopvip", "v": "领取"}
+      ],
+      "tags": [
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"},
+        {"k": "firstorder", "v": "首单减", "des": "满60减30, 首单减, 满减上不封顶"}
+      ],
+      "categories": [
+        "买过",
+        "热销",
+        "优惠",
+        "收藏有惊喜",
+        "套餐",
+        "酷夏搭配",
+        "荤菜",
+        "素菜",
+        "调料",
+        "特色",
+        "火锅米线",
+        "滋养甜粥"
+      ],
+      "foods": [
+        {
+          "id": 0,
+          "name": "foodOne",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/2/35/cddb6ac721b1d1cb5e80eb398719ejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "name": "foodTwo",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/c2/7d9536a1395a6d42b2a580b3710a9jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "foodThree",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "\nhttps://cube.elemecdn.com/b/2c/853871ff1cc639b1185a637b942f8jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_240/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "foodFour",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/9/f7/b2b62c2da1bc1c4c70216e1f13c54jpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "foodFive",
+          "des": "主要原料：鸡肉，水，米饭。",
+          "sellcount": "9",
+          "rating": "90%",
+          "cid": 0,
+          "img": "https://cube.elemecdn.com/d/fc/7d5278e8e57d3eabb21ad8423f3fejpeg.jpeg?x-oss-process=image/resize,m_lfit,w_140,h_140/watermark,g_se,x_4,y_4,image_YS8xYS82OGRlYzVjYTE0YjU1ZjJlZmFhYmIxMjM4Y2ZkZXBuZy5wbmc_eC1vc3MtcHJvY2Vzcz1pbWFnZS9yZXNpemUsUF8yOA%3D%3D/quality,q_90/format,webp",
+          "price": 10,
+          "options": [
+            {
+              "type": "辣度",
+              "choose": -1,
+              "opt": ["不辣", "微辣", "中辣", "重辣"]
+            },
+            {
+              "type": "调料",
+              "choose": -1,
+              "opt": ["不要蒜", "不要葱"]
+            },
+            {
+              "type": "饮料",
+              "choose": -1,
+              "opt": ["果汁", "例汤"]
+            }
+          ]
+        }
+      ],
+      "ratings": [
+
+      ],
+      "tool": {
+        "stars": 1,
+        "popUp": false,
+        "dislike": false,
+        "hideTag": true
+      }
+    }
+  }
+}

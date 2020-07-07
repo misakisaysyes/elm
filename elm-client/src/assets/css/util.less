@@ -1,0 +1,157 @@
+@deepbule: #0090ff;
+@lightbule: #00a7ff;
+@c1: gold;
+@c2: crimson;
+@c3: darkturquoise;
+
+@tipfontc: #b2b2b2;
+@tipfontc--deep: #9a9a9a;
+@tipfontc--active: #0090ff;
+@fontc-dark: #2f2f2f;
+@vipfontc: #564325;
+
+
+@iconfont-size: 60rem;
+
+@footerNav-color:  #f6f6f6;
+@footerNavFont-color: #7e7e7e;
+@footerNavFont-size: 27rem;
+
+@headerIconfont-color: #2f2f2f;
+@userTipFont-color: #9a9a9a;
+
+html {
+  /* borders */
+  .border-test {
+    border: 1rem darkturquoise solid;
+  }
+
+  .w {
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .lazy-w {
+    width: 95%;
+    margin: 0 auto;
+  }
+}
+
+/* 字体处理 */
+@font-face {
+  font-family: 'iconfont';  /* project id 1812314 */
+  src: url('//at.alicdn.com/t/font_1812314_r1mxf0d8krq.eot');
+  src: url('//at.alicdn.com/t/font_1812314_r1mxf0d8krq.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1812314_r1mxf0d8krq.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1812314_r1mxf0d8krq.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1812314_r1mxf0d8krq.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1812314_r1mxf0d8krq.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: 'iconfont';
+
+}
+.iconfont-crown::before {
+  content: '\e616';
+}
+.iconfont-phonecost::before {
+  content: '\e66f';
+}
+.iconfont-collect::before {
+  content: '\e66c';
+}
+.iconfont-gift::before {
+  content: '\e679';
+}
+.iconfont-bonus::before {
+  content: '\e602';
+}
+.iconfont-addr::before {
+  content: '\e603';
+}
+.iconfont-business::before {
+  content: '\e61e';
+}
+.iconfont-charity::before {
+  content: '\e8af';
+}
+.iconfont-server::before{
+  content: '\e614';
+}
+.iconfont-card::before {
+  content: '\e60c';
+}
+.iconfont-company::before {
+  content: '\e71c';
+}
+.iconfont-search::before {
+  content:'\e66e';
+}
+.iconfont-scan::before {
+  content: '\e686';
+}
+.iconfont-notice::before {
+  content: '\e736';
+}
+.iconfont-delete::before {
+  content: '\e60e';
+}
+
+/* 显示省略号 */
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* 两侧栏布局，浮动方案 */
+.ft-box {
+  overflow: hidden;
+  margin: 0 auto;
+  padding: 25rem;
+  margin: 3%;
+  border-radius: 6rem;
+  .ft-box--left {
+    float: left;
+  }
+  .ft-box--right {
+    // padding-left！
+    .ft-row, .ft-row--lr {
+    }
+    .ft-row--lr{
+      overflow: hidden;
+      .ft-left {
+        float: left;
+      }
+      .ft-right {
+        float: right;
+      }
+    }
+  }
+}
+
+/* 两侧栏布局，自适应方案 */
+.fx-box {
+  padding: 25rem;
+  border-radius: 6rem;
+  display: flex;
+  .fx-box--left {
+    float: left;
+  }
+  .fx-box--right {
+    flex: 1;
+    margin-left: 30rem;
+    .fx-row, .fx-row--lr {
+    }
+    .fx-row--lr {
+      .fx-left {
+        float: left;
+      }
+      .fx-right{
+        float: right;
+      }
+    }
+  }
+}
+
